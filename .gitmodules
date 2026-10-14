@@ -1,0 +1,3 @@
+[submodule "src/um-agentic-ed-framework"]
+	path = src/um-agentic-ed-framework
+	url = https://github.com/um-agentic-ed/um-agentic-ed-framework.git

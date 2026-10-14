@@ -1,0 +1,19 @@
+# exclude old, unused, and  temporary working files and folders
+old
+_old
+unused
+_unused
+working_tasks.md
+_working_tasks.md
+working_images
+_working_images
+
+# exclude content sources from the repository
+trusted_sources
+_trusted_sources
+
+# exlude any notepad files deposited during development
+*.notes.json
+
+# exclude editor lock files
+APP_LOCK.js

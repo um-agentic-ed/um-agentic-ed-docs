@@ -1,0 +1,32 @@
+/*
+ * App branding. Overrides the Framework's default header and sidebar colors.
+ * 
+ * Edit the values below by hand, or run `/build-app set-app-identity` in your
+ * coding agent to help you. 
+ *
+ * Use any valid CSS color. You can delete a line to keep the Framework default 
+ * color. Choose text and hover colors that stay readable on the background.
+ */
+:root {
+  /* Background of the page header and the sidebar. */
+  --umed-brand-bg: #00274c;
+
+  /* Text and icon color on the header and sidebar. */
+  --umed-brand-text: #ffcb05;
+
+  /* Background of header and sidebar items when hovered, selected or dragged. */
+  --umed-brand-hover-bg: #173f5f;
+
+  /* Thin divider lines in the header and sidebar. */
+  --umed-brand-border: #4c5837;
+
+  /* Accent for text, borders and buttons in Slides, menus and the Editor. */
+  --umed-brand-accent: #00274c;
+}
+
+/*
+ * Add any custom markdown styling classes, which can then be applied in markdown
+ * fields using syntax `{.my-class target text}`. Basic colors and font styles 
+ * are pre-defined in Framework CSS file `src/um-agentic-ed-framework/styles/markdown-styles.css`.
+ */
+/* .my-class { } */
