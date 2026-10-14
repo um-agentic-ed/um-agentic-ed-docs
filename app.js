@@ -10,27 +10,27 @@ window.umedAppIdentity = {
   // Immutable unique ID (UUID v4) of this App. Generate a new one for each
   // new App and NEVER change it afterwards: Learner notes saved in the browser 
   // and exported notes files are matched to the App by this value.
-  appUuid: "1f7f09e4-79cb-4047-ac48-6a0ce132f61f",
+  appUuid: "2fa4bc6b-9def-4f9a-88cb-3de73c78695c",
 
   // Short, lowercase, filesystem-safe name using only a-z, 0-9 and hyphens.
   // Used for the file name of exported Learner notes: <appName>.notes.json.
-  appName: "um-agentic-ed-parent",
+  appName: "um-agentic-ed-docs",
 
   // Human-readable title. The Framework shows it both in the page header and
   // as the browser tab title, so keep it short enough to fit.
-  appTitle: "UM Agentic Ed Parent",
+  appTitle: "UM Agentic Ed Docs",
 
   // Whether Learners and Editors use the Subject level in navigation. Use true
   // for Apps with one or more visible Subjects. When false, the content index
   // must contain exactly one hidden Subject whose id and title are both
   // "app-subject"; routes still include that Subject id.
-  subjectsEnabled: false,
+  subjectsEnabled: true,
 
   // The subject area Learners study. Together with learner Level it gives AI
   // chatbots context when a Learner asks about a Slide, in the sentence
   // "I am a <learnerLevel> learner in <discipline>."
   // Examples: "organic chemistry", "molecular genetic pathology".
-  discipline: "app development",
+  discipline: "um-agentic-ed app development",
 
   // The typical Learner this App targets, as an adjective phrase that fits
   // "I am a ___ learner". Examples: "high school", "post-graduate", "beginning".
@@ -50,5 +50,5 @@ window.umedAppIdentity = {
   // a convenience to help keep Editor work organized and must not be considered
   // a secure authentication or authorization mechanism. If the array is empty,
   // only Agent editing is supported.
-  allowedEditorNames: ["username"]
+  allowedEditorNames: ["wilsonte"]
 };
