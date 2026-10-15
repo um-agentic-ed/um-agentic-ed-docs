@@ -1,8 +1,9 @@
 # Project overview
 
 `um-agentic-ed` is a system for building education web apps. This repository, 
-`TODO: your-app-repo-name`, is a Parent repository as defined below that:
-- TODO: list the major goals of your app here.
+`um-agentic-ed-docs`, is a Parent repository as defined below that acts as the 
+`um-agentic-ed` system documentation. Building the documentation in the app 
+system provides instructions within a guaranteed working app example. 
 
 # um-agentic-ed system overview
 - A single-page web application delivers a dynamically updatable, interactive 
@@ -52,9 +53,31 @@ for repeating tasks.
 
 # Educational content generation guidelines
 
-The content of the App in `TODO: your-app-repo-name` is designed to be used:
-- TODO: describe your target usage context and users here.
+The content of the App in `um-agentic-ed-docs` is designed to be used by anyone
+who wants to learn how to:
+- Develop their own app in the system framework.
+- Use an app developed by someone else.
 
 In addition to the content guidelines provided in 
 `src/um-agentic-ed-framework/AGENTS.md`, when you generate content:
-- TODO: provide additional instruction for Agents to follow when generating content.
+- Use this project repository as your context and guide; the content you are creating
+  will explain how to use the `um-agentic-ed` system based on the generic Parent files
+  and `src/um-agentic-ed-framework` you will find in this repository. The specific
+  documentation content in `src/content` is not the context for creating new content,
+  other than the file tree organization and to help see what has already been documented. 
+- When working on one Section or Slide, focus on its specific goals in the provided
+  `app-outline.xlsx`; placing them in context will help you put the right content
+  on the right slides. The Subject, Category, Section and Slide columns in the outline
+  file are the intended titles of those elements.
+- Be concise but clear; favor content that guides users to the features they should
+  recognize in apps, and essential information to using them effectively, but
+  avoid overly long descriptions just to fill space.
+- Work to document and illustrate all key app features in an organized fashion; 
+  following the organization found in `app-outline.xlsx`.
+- Separate app developer from app user concerns.
+- When possible, use image blocks to illustrate features in a running app.  This
+  might be done either by using existing codebase support, e.g., using SVG icons,
+  and/or by creating images from screen captures of a live app. Help users
+  see what you are talking about.
+- Do not use the uppercase entity naming convention used in agent instructions,
+  e.g., for documentation, use `app` instead of `App`, `slide` instead of `Slide`.

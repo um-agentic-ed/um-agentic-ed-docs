@@ -9,9 +9,8 @@ anyone, with rebranding support.
 
 ## um-agentic-ed-parent
 
-This repository, `um-agentic-ed-parent`, is the template to use to start a new 
-app repository. Your copy of this template will carry the content that defines 
-your app.
+This repository, `um-agentic-ed-docs`, is an app built in the system that acts
+as the system documention as well as complete working app example.
 
 ## Philosophy: collaborating with AI helps educators and learners
 
@@ -27,23 +26,22 @@ AI to interact with your content and to learn actively with each other.
 `um-agentic-ed` uses modern tools to help you make your content come alive for 
 learners!
 
-## Creating a new app from this template
+## Creating a new app
 
 1. Create your own app parent repository by
-[copying this template](https://github.com/um-agentic-ed/um-agentic-ed-parent/generate).
+[copying the system template](https://github.com/um-agentic-ed/um-agentic-ed-parent/generate).
 
 2. Make a local clone of your new repository:
 
 ```sh
-git clone https://github.com/<owner>/<your-app-name>
+git clone --recurse-submodules https://github.com/<owner>/<your-app-name>
 cd <your-app-name>
 ```
 
-3. Add the framework submodule required to make your app function:
-
-```sh
-git submodule add https://github.com/um-agentic-ed/um-agentic-ed-framework.git src/um-agentic-ed-framework
-```
+3. Check your installation by double-clicking `index.html` in your app folder - 
+the template **UM Agentic Ed Parent** app should open.  If not, you likely forgot 
+`--recurse-submodules` and must run `git submodule update --init --recursive` to 
+clone the required framework submodule.
 
 4. Edit files `README.md` (this file) and `AGENTS.md` (in the places marked 
 `TODO` only!) to describe the context and content of your new app.
@@ -54,8 +52,8 @@ or your favorite AI-powered development environment, execute
 `/build-app set-app-identity`, OR manually edit file `app.js` to describe
 your new app.
 
-6. Double-click `index.html` to open your new app in Chrome (Safari does not 
-support in-app editing). You can rename `index.html` to `<your-app-name>.html`
+6. Double-click `index.html` again to open your new app in Chrome (Safari does  
+not support in-app editing). You can rename `index.html` to `<your-app-name>.html`
 or another name if you'd like.
 
 7. Ctrl-click on the title you gave your app in the upper left corner to toggle
@@ -77,8 +75,8 @@ following instructions created by the developers.
 
 ## License
 
-- **Code:** Licensed under the [MIT License](https://github.com/um-agentic-ed/um-agentic-ed-parent/blob/main/LICENSE).
-- **Content & Documentation:** Licensed under the [Creative Commons Attribution 4.0 International (CC BY-NC 4.0)](https://github.com/um-agentic-ed/um-agentic-ed-parent/blob/main/LICENSE-CC-BY-NC-4.0).
+- **Code:** Licensed under the [MIT License](https://github.com/um-agentic-ed/um-agentic-ed-docs/blob/main/LICENSE).
+- **Content & Documentation:** Licensed under the [Creative Commons Attribution 4.0 International (CC BY-NC 4.0)](https://github.com/um-agentic-ed/um-agentic-ed-docs/blob/main/LICENSE-CC-BY-NC-4.0).
 
 For licensing purposes, "content" is defined as anything you can see rendered
 in the running app; "code" is the Javascript, HTML, or CSS language elements 
