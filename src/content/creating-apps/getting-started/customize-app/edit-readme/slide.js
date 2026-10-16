@@ -6,12 +6,12 @@ window.umedAppContent["creating-apps/getting-started/customize-app/edit-readme"]
   "level": "core-learning",
   "order": 20,
   "title": "Edit `README.md` for GitHub",
-  "contentUpdatedAt": "2026-10-15T17:56:43.996Z",
+  "contentUpdatedAt": "2026-10-15T18:47:49.945Z",
   "content": {
     "blocks": [
       {
         "type": "text",
-        "markdown": "`README.md` is the repository's front page on GitHub. Replace the template description with information that helps collaborators understand the app before they open it.\n\nConsder including:\n\n- the app's purpose, subject, and intended learners;\n- how to clone the repository with its submodule and open the app;\n- how editors should contribute or request changes;\n- a short AI-generated-content notice when applicable;\n- links to the code and content licenses.\n\nNever place sensitive information in the README, even if your repository is private."
+        "markdown": "`README.md` is the repository's front page on GitHub. Replace the template description with information that helps collaborators understand your app.\n\nConsider including:\n\n- the app's purpose, subject, and intended learners;\n- how to clone the repository with its submodule and open the app;\n- how editors should contribute or request changes;\n- a short AI-generated-content notice when applicable;\n- links to the code and content licenses.\n\nNever place sensitive information in the README, even if your repository is private."
       },
       {
         "type": "gptFollowup",

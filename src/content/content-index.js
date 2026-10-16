@@ -91,7 +91,7 @@ window.umedAppContentIndex = {
                   "uuid": "d5af65a7-1ce3-4cba-aa22-bf67de4c3c97",
                   "title": "Establish your content LICENSE",
                   "level": "core-learning",
-                  "order": 10,
+                  "order": 45,
                   "keywords": [
                     "attribution",
                     "code",
@@ -156,7 +156,7 @@ window.umedAppContentIndex = {
                 {
                   "id": "edit-app-css",
                   "uuid": "6e48ffc4-f39a-4cff-a11f-ef2487124408",
-                  "title": "Edit `app.css` to customize app branding",
+                  "title": "Edit `app.css` for app branding",
                   "level": "core-learning",
                   "order": 40,
                   "keywords": [

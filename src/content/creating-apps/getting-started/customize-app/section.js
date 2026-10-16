@@ -6,7 +6,7 @@ window.umedAppContent["creating-apps/getting-started/customize-app"] = {
     "blocks": [
       {
         "type": "text",
-        "markdown": "The app you created from the template is fully functional but has essentially no content or identity except for a few filler slides.  \n\nThe next slides will guide you through making the app your own."
+        "markdown": "The app you created from the template is fully functional but has no content or identity except for a few filler slides.  \n\nThe next slides will guide you through making the app your own."
       },
       {
         "type": "instructions",

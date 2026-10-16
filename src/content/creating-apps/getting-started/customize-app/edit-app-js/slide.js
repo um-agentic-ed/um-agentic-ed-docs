@@ -6,12 +6,12 @@ window.umedAppContent["creating-apps/getting-started/customize-app/edit-app-js"]
   "level": "core-learning",
   "order": 30,
   "title": "Edit `app.js` to declare app metadata",
-  "contentUpdatedAt": "2026-10-15T17:57:39.700Z",
+  "contentUpdatedAt": "2026-10-15T18:51:11.369Z",
   "content": {
     "blocks": [
       {
         "type": "text",
-        "markdown": "The root `app.js` file assigns `window.umedAppIdentity`. Change its values without changing the assignment structure.\n\n| Field | Purpose | Key constraint |\n| --- | --- | --- |\n| `appUuid` | Permanent identity used for learner notes | Generate once for a new app; never change after use |\n| `appName` | Safe name used in exported-note filenames | Lowercase letters, numbers, and hyphens |\n| `appTitle` | Header and browser-tab title | Human-readable and concise |\n| `subjectsEnabled` | Shows or suppresses subject navigation | Must agree with the content hierarchy |\n| `discipline`, `learnerLevel` | Context supplied to chatbot prompts | Describe the intended learning context |\n| `chatbotUrl` | Chatbot opened for slide questions | Use `http://`, `https://`, or leave blank |\n| `allowedEditorNames` | Names accepted by editor mode | Convenience only, not authentication |"
+        "markdown": "The root `app.js` file declares app-level metadata you must enter to describe your app.\n\n| Field | Purpose | Constraints |\n| --- | --- | --- |\n| `appUuid` | Permanent app identifier | Generate once for a new app; never change after use |\n| `appName` | Safe name used in exported filenames | Lowercase letters, numbers, and hyphens |\n| `appTitle` | Header and browser-tab title | Human-readable and concise |\n| `subjectsEnabled` | Shows or suppresses subject navigation | Must agree with the content hierarchy |\n| `discipline`, `learnerLevel` | Context supplied to chatbot prompts | Describe the intended learning context |\n| `chatbotUrl` | Chatbot opened for slide questions | Use `http://`, `https://`, or leave blank |\n| `allowedEditorNames` | Names accepted by editor mode | Convenience only, not an authentication mechanism |\n\n\nBe sure not to change the JavaScript code structure, just the field values."
       }
     ]
   }
