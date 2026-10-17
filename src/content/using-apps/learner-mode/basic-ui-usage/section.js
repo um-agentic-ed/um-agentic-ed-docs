@@ -1,0 +1,1 @@
+window.umedAppContent["using-apps/learner-mode/basic-ui-usage"] = { "uuid": "2008c8aa-da1b-496f-aa45-afe68a0130aa", "slideSchemaVersion": 2, "title": "Basic UI Usage", "content": { "blocks": [{ "type": "text", "markdown": "Navigate slides and the sidebar, adjust the workspace, and search for relevant content." }] } };

@@ -1,0 +1,1 @@
+window.umedAppContent["creating-apps/content-generation/in-app-editing"] = { "uuid": "b56c3490-fd75-4d80-b7a9-146ce1542b15", "slideSchemaVersion": 2, "title": "In-App Editing", "content": { "blocks": [{ "type": "text", "markdown": "Use editor mode to revise slides safely, understand landing slides, and coordinate edits with app locking." }] } };

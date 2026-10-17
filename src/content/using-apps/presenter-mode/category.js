@@ -1,0 +1,1 @@
+window.umedAppContent["using-apps/presenter-mode"] = { "uuid": "8e6e53d3-282e-4d03-a252-26468bdf385d", "slideSchemaVersion": 2, "title": "Presenter Mode", "content": { "blocks": [{ "type": "text", "markdown": "Present app content to a group with projection-oriented navigation and live interaction tools." }] } };

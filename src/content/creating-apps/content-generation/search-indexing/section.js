@@ -1,0 +1,1 @@
+window.umedAppContent["creating-apps/content-generation/search-indexing"] = { "uuid": "77ffe82c-949a-4a61-95ae-0e1699d92a52", "slideSchemaVersion": 2, "title": "Search Indexing", "content": { "blocks": [{ "type": "text", "markdown": "Keep navigation metadata and searchable keywords synchronized with app content." }] } };

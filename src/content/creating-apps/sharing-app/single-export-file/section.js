@@ -1,0 +1,1 @@
+window.umedAppContent["creating-apps/sharing-app/single-export-file"] = { "uuid": "3db53d6c-27c5-42cf-a0b8-03dc839da79b", "slideSchemaVersion": 2, "title": "As a Single Export File", "content": { "blocks": [{ "type": "text", "markdown": "Package an app into a self-contained HTML file for straightforward distribution." }] } };

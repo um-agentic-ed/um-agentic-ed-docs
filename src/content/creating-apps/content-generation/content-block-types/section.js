@@ -1,0 +1,1 @@
+window.umedAppContent["creating-apps/content-generation/content-block-types"] = { "uuid": "9588ae8a-aeae-4dc9-a3c0-081c0de4049e", "slideSchemaVersion": 2, "title": "Content Block Types", "content": { "blocks": [{ "type": "text", "markdown": "Explore the standard blocks used for text, images, links, questions, GPT follow-ups, and dividers." }] } };

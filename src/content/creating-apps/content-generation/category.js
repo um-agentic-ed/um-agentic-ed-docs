@@ -1,0 +1,1 @@
+window.umedAppContent["creating-apps/content-generation"] = { "uuid": "7d668137-852c-4b2c-9d22-777607dcc4c7", "slideSchemaVersion": 2, "title": "Content Generation", "content": { "blocks": [{ "type": "text", "markdown": "Create and maintain educational content through in-app editing and supported agent workflows." }] } };

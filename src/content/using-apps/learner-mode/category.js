@@ -1,0 +1,1 @@
+window.umedAppContent["using-apps/learner-mode"] = { "uuid": "37a646c4-bcb7-4bc6-a954-52715602525c", "slideSchemaVersion": 2, "title": "Learner Mode", "content": { "blocks": [{ "type": "text", "markdown": "Navigate content, use interactive learning features, and keep personal notes in learner mode." }] } };

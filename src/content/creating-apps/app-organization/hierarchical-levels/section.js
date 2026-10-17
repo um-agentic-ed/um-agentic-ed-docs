@@ -1,0 +1,1 @@
+window.umedAppContent["creating-apps/app-organization/hierarchical-levels"] = { "uuid": "2d0906f7-15a2-4aa8-8bf1-5982d139a0a7", "slideSchemaVersion": 2, "title": "Hierarchical Levels", "content": { "blocks": [{ "type": "text", "markdown": "Recognize the hierarchy of subjects, categories, sections, slides, blocks, and learner levels used to organize an app." }] } };

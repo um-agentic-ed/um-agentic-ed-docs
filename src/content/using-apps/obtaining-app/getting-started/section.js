@@ -1,0 +1,1 @@
+window.umedAppContent["using-apps/obtaining-app/getting-started"] = { "uuid": "72e6d281-825a-46c9-8d57-755488277c23", "slideSchemaVersion": 2, "title": "Getting Started", "content": { "blocks": [{ "type": "text", "markdown": "Open an obtained app in a supported web browser and begin learning." }] } };
