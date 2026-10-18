@@ -1,0 +1,4 @@
+window.umedAppContent["creating-apps/content-generation/in-app-editing/landing-vs-content"] = {
+  "id": "landing-vs-content", "uuid": "a8e42d16-6e1b-46fe-a5bc-0ef0da6222ee", "slideSchemaVersion": 2, "title": "Landing slides vs. regular content slides", "level": "advanced-topics", "order": 50, "contentUpdatedAt": "2026-10-18T14:11:04.503Z",
+  "content": { "blocks": [{ "type": "text", "markdown": "Landing slides introduce the app, a subject, category, or section at a partial route. Their files are `app-overview.js`, `subject.js`, `category.js`, or `section.js`; they do not carry a learner level or slide order. Category and section landings may hold retained instructions and trusted-source declarations.\n\nRegular content slides live in their own folders as `slide.js`. They have an id, learner level, order, update timestamp, and matching index entry. Empty slides remain editable but are skipped in learner and presenter modes." }] }
+};

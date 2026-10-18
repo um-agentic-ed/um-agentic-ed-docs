@@ -1,0 +1,4 @@
+window.umedAppContent["creating-apps/content-generation/in-app-editing/slides-use-blocks"] = {
+  "id": "slides-use-blocks", "uuid": "18e6bfaa-7d65-451a-8b1d-33b1242ae68a", "slideSchemaVersion": 2, "title": "Slides are built from blocks", "level": "core-learning", "order": 40, "contentUpdatedAt": "2026-10-18T14:11:04.503Z",
+  "content": { "blocks": [{ "type": "text", "markdown": "A slide's `content.blocks` array combines purpose-built elements in display order. Blocks can provide text, images, links, questions, dividers, GPT follow-ups, file uploads, widgets, retained instructions, and trusted sources.\n\nChoose the smallest set that makes the slide complete and digestible. Most blocks render where they appear; GPT follow-ups are gathered at the bottom, while retained instructions are visible only to editors." }, { "type": "gptFollowup", "questions": ["Suggest an effective block sequence for a slide I am planning."] }] }
+};
