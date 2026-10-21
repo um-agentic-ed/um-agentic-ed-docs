@@ -136,7 +136,7 @@ window.umedAppContentIndex = {
                   "uuid": "1f64f500-1fd3-4855-be48-a146af596a78",
                   "title": "Edit `app.js` to declare app metadata",
                   "level": "core-learning",
-                  "order": 30,
+                  "order": 10,
                   "keywords": [
                     "appname",
                     "apptitle",
@@ -158,7 +158,7 @@ window.umedAppContentIndex = {
                   "uuid": "6e48ffc4-f39a-4cff-a11f-ef2487124408",
                   "title": "Edit `app.css` for app branding",
                   "level": "core-learning",
-                  "order": 40,
+                  "order": 15,
                   "keywords": [
                     "accent",
                     "background",
@@ -203,7 +203,7 @@ window.umedAppContentIndex = {
                 {
                   "id": "set-app-identity",
                   "uuid": "5abb5e94-6ef1-4875-b3c6-d79a590ba2f3",
-                  "title": "Agent skill `set-app-identity`",
+                  "title": "Use agent skill `set-app-identity`",
                   "level": "advanced-topics",
                   "order": 60,
                   "keywords": [
@@ -258,174 +258,7 @@ window.umedAppContentIndex = {
               "uuid": "2d0906f7-15a2-4aa8-8bf1-5982d139a0a7",
               "title": "Hierarchical Levels",
               "order": 10,
-              "slides": [
-                {
-                  "id": "subjects",
-                  "uuid": "a903437f-9bf1-4460-b50a-8a9814181edd",
-                  "title": "Subjects",
-                  "level": "core-learning",
-                  "order": 10,
-                  "keywords": [
-                    "subjects",
-                    "broadest",
-                    "content",
-                    "categories",
-                    "navigation",
-                    "landing",
-                    "structural",
-                    "app-subject",
-                    "framework",
-                    "interface",
-                    "tree"
-                  ],
-                  "keywordsUpdatedAt": "2026-10-18T13:53:09.847Z"
-                },
-                {
-                  "id": "categories",
-                  "uuid": "abb58086-e100-48cf-bccd-18911a2b5139",
-                  "title": "Categories",
-                  "level": "core-learning",
-                  "order": 20,
-                  "keywords": [
-                    "categories",
-                    "learning",
-                    "objectives",
-                    "subject",
-                    "sidebar",
-                    "sections",
-                    "boundaries",
-                    "goals",
-                    "landing",
-                    "group"
-                  ],
-                  "keywordsUpdatedAt": "2026-10-18T13:53:09.847Z"
-                },
-                {
-                  "id": "sections",
-                  "uuid": "94fb5119-eb77-46f4-a366-84067b307ac7",
-                  "title": "Sections",
-                  "level": "core-learning",
-                  "order": 30,
-                  "keywords": [
-                    "sections",
-                    "slides",
-                    "coherent",
-                    "topic",
-                    "category",
-                    "sidebar",
-                    "landing",
-                    "learning",
-                    "sequence",
-                    "learner",
-                    "levels",
-                    "guidance",
-                    "trusted",
-                    "sources",
-                    "ordered",
-                    "broad",
-                    "focus",
-                    "areas",
-                    "element"
-                  ],
-                  "keywordsUpdatedAt": "2026-10-18T13:53:09.847Z"
-                },
-                {
-                  "id": "slides",
-                  "uuid": "793bb046-550f-4618-96a9-0be135b03da7",
-                  "title": "Slides",
-                  "level": "core-learning",
-                  "order": 40,
-                  "keywords": [
-                    "slides",
-                    "digestible",
-                    "unit",
-                    "learning",
-                    "content",
-                    "pane",
-                    "title",
-                    "learner",
-                    "level",
-                    "order",
-                    "section",
-                    "screen",
-                    "blocks",
-                    "explanation",
-                    "image",
-                    "self-check",
-                    "empty",
-                    "presenters"
-                  ],
-                  "keywordsUpdatedAt": "2026-10-18T13:53:09.847Z"
-                },
-                {
-                  "id": "blocks",
-                  "uuid": "38c6bcb0-ab99-4f9c-acf5-6dca94a7cf83",
-                  "title": "Blocks",
-                  "level": "core-learning",
-                  "order": 50,
-                  "keywords": [
-                    "blocks",
-                    "component",
-                    "slide",
-                    "editor",
-                    "elements",
-                    "text",
-                    "images",
-                    "links",
-                    "questions",
-                    "uploads",
-                    "interactive",
-                    "widgets",
-                    "dividers",
-                    "instructions",
-                    "brief",
-                    "agent",
-                    "learners",
-                    "display",
-                    "follow-up",
-                    "prompts",
-                    "generation",
-                    "horizontal",
-                    "rule"
-                  ],
-                  "keywordsUpdatedAt": "2026-10-18T13:53:09.847Z"
-                },
-                {
-                  "id": "learner-levels",
-                  "uuid": "86fcc0f4-c299-48e1-9faa-5ab2b629c391",
-                  "title": "Learner Levels",
-                  "level": "core-learning",
-                  "order": 60,
-                  "keywords": [
-                    "learner",
-                    "levels",
-                    "slide",
-                    "learning",
-                    "progression",
-                    "folder",
-                    "url",
-                    "navigation",
-                    "section",
-                    "foundations",
-                    "prerequisite",
-                    "entry-level",
-                    "knowledge",
-                    "core",
-                    "target",
-                    "material",
-                    "advanced",
-                    "topics",
-                    "challenge",
-                    "depth",
-                    "nuance",
-                    "order",
-                    "sequence",
-                    "preparation",
-                    "optional"
-                  ],
-                  "keywordsUpdatedAt": "2026-10-18T13:53:09.847Z"
-                }
-              ]
+              "slides": []
             },
             {
               "id": "create-outline",
@@ -436,8 +269,8 @@ window.umedAppContentIndex = {
                 {
                   "id": "recommended-use",
                   "uuid": "76bf24ca-6d00-4371-8aa8-ca84eaa7e003",
-                  "title": "Recommended: use `app-outline.xlsx`",
-                  "level": "advanced-topics",
+                  "title": "Using file `app-outline.xlsx`",
+                  "level": "core-learning",
                   "order": 10,
                   "keywords": [
                     "recommended",
@@ -472,7 +305,7 @@ window.umedAppContentIndex = {
                 {
                   "id": "ai-build-outline",
                   "uuid": "a5c7ba28-ba11-4992-9b00-3c5ac6f79645",
-                  "title": "Let AI help build your outline",
+                  "title": "Let AI help build and fill your outline",
                   "level": "advanced-topics",
                   "order": 20,
                   "keywords": [
@@ -533,15 +366,132 @@ window.umedAppContentIndex = {
             {
               "id": "in-app-editing",
               "uuid": "b56c3490-fd75-4d80-b7a9-146ce1542b15",
-              "title": "In-App Editing",
+              "title": "Live in-app editing (editor mode)",
               "order": 10,
               "slides": [
-                { "id": "editing-prereqs", "uuid": "4d346b2a-2377-4bcb-b9f1-09f08d8e0c9b", "title": "Prerequisites for in-app editing", "level": "foundations", "order": 10, "keywords": ["prerequisites", "editing", "browser", "file", "system", "access", "api", "chromium", "desktop", "repository", "folder", "writable"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "entering-editor-mode", "uuid": "b9ec444f-a605-4dfc-a9dc-9d3b17152548", "title": "Entering editor mode", "level": "foundations", "order": 20, "keywords": ["entering", "editor", "mode", "recognized", "name", "allowededitornames", "repository", "folder", "hierarchy", "actions", "pane", "lock"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "general-slide-edit", "uuid": "e97a71d0-1503-41e9-96bf-5b98c66918d1", "title": "General slide editing instructions", "level": "core-learning", "order": 30, "keywords": ["general", "slide", "editing", "instructions", "pane", "title", "learner", "level", "order", "blocks", "preview", "save", "uuid", "metadata"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "slides-use-blocks", "uuid": "18e6bfaa-7d65-451a-8b1d-33b1242ae68a", "title": "Slides are built from blocks", "level": "core-learning", "order": 40, "keywords": ["slides", "built", "blocks", "text", "images", "links", "questions", "dividers", "uploads", "widgets", "trusted", "sources", "editors"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "landing-vs-content", "uuid": "a8e42d16-6e1b-46fe-a5bc-0ef0da6222ee", "title": "Landing slides vs. regular content slides", "level": "advanced-topics", "order": 50, "keywords": ["landing", "slides", "regular", "content", "subject", "category", "section", "route", "instructions", "trusted", "sources", "learner", "level", "index"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "app-locking", "uuid": "27305e1b-787f-438c-8910-53b8978e9ddf", "title": "App locking to prevent editing collisons", "level": "advanced-topics", "order": 60, "keywords": ["app", "locking", "prevent", "editing", "collisons", "coordinates", "repository", "agent", "owner", "token", "acquisition", "overlapping", "writes"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" }
+                {
+                  "id": "editing-prereqs",
+                  "uuid": "4d346b2a-2377-4bcb-b9f1-09f08d8e0c9b",
+                  "title": "Prerequisites for live editing",
+                  "level": "foundations",
+                  "order": 10,
+                  "keywords": [
+                    "prerequisites",
+                    "editing",
+                    "browser",
+                    "file",
+                    "system",
+                    "access",
+                    "api",
+                    "chromium",
+                    "desktop",
+                    "repository",
+                    "folder",
+                    "writable"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "entering-editor-mode",
+                  "uuid": "b9ec444f-a605-4dfc-a9dc-9d3b17152548",
+                  "title": "Entering and exiting editor mode",
+                  "level": "foundations",
+                  "order": 20,
+                  "keywords": [
+                    "entering",
+                    "editor",
+                    "mode",
+                    "recognized",
+                    "name",
+                    "allowededitornames",
+                    "repository",
+                    "folder",
+                    "hierarchy",
+                    "actions",
+                    "pane",
+                    "lock"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "general-slide-edit",
+                  "uuid": "e97a71d0-1503-41e9-96bf-5b98c66918d1",
+                  "title": "General editing instructions",
+                  "level": "core-learning",
+                  "order": 30,
+                  "keywords": [
+                    "general",
+                    "slide",
+                    "editing",
+                    "instructions",
+                    "pane",
+                    "title",
+                    "learner",
+                    "level",
+                    "order",
+                    "blocks",
+                    "preview",
+                    "save",
+                    "uuid",
+                    "metadata"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "slides-use-blocks",
+                  "uuid": "18e6bfaa-7d65-451a-8b1d-33b1242ae68a",
+                  "title": "Slides are built from blocks",
+                  "level": "core-learning",
+                  "order": 40,
+                  "keywords": [
+                    "slides",
+                    "built",
+                    "blocks",
+                    "text",
+                    "images",
+                    "links",
+                    "questions",
+                    "dividers",
+                    "uploads",
+                    "widgets",
+                    "trusted",
+                    "sources",
+                    "editors"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "app-locking",
+                  "uuid": "27305e1b-787f-438c-8910-53b8978e9ddf",
+                  "title": "App locking to prevent editing collisons",
+                  "level": "foundations",
+                  "order": 25,
+                  "keywords": [
+                    "app",
+                    "locking",
+                    "prevent",
+                    "editing",
+                    "collisons",
+                    "coordinates",
+                    "repository",
+                    "agent",
+                    "owner",
+                    "token",
+                    "acquisition",
+                    "overlapping",
+                    "writes"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "adding-categories",
+                  "uuid": "e5a0ad07-8199-4421-a224-c2d7dd358cf9",
+                  "title": "Adding categories, sections, and slides",
+                  "level": "core-learning",
+                  "order": 35,
+                  "keywords": [],
+                  "keywordsUpdatedAt": "2026-10-21T20:25:39.816Z"
+                }
               ]
             },
             {
@@ -550,12 +500,127 @@ window.umedAppContentIndex = {
               "title": "Content Block Types",
               "order": 20,
               "slides": [
-                { "id": "text-blocks", "uuid": "63cb5e90-aea0-4df4-a454-ca3b1d2346f8", "title": "Text blocks", "level": "core-learning", "order": 10, "keywords": ["text", "blocks", "markdown", "paragraphs", "headings", "emphasis", "lists", "code", "preview", "readability"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "image-blocks", "uuid": "5fde93a3-11da-49b3-b920-3a2f299644dc", "title": "Image blocks", "level": "core-learning", "order": 20, "keywords": ["image", "blocks", "local", "asset", "https", "alt", "text", "label", "caption", "attribution", "references"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "link-blocks", "uuid": "40d9e96b-e6c5-45de-a152-88b8709338be", "title": "Link blocks", "level": "core-learning", "order": 30, "keywords": ["link", "blocks", "label", "url", "resource", "https", "trustworthy", "browser", "history", "bookmarks", "referrers", "logs"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "question-blocks", "uuid": "22d95a66-de5b-4e86-b8e3-2fe482acbf42", "title": "Question blocks", "level": "core-learning", "order": 40, "keywords": ["question", "blocks", "multiple", "choice", "prompt", "choices", "correct", "feedback", "distractors", "transitions"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "gpt-followup-blocks", "uuid": "2a0d2bec-07dc-46ed-b23d-b21a9eeeedd4", "title": "GPT Follow-up Prompt blocks", "level": "core-learning", "order": 50, "keywords": ["gpt", "follow-up", "prompt", "blocks", "questions", "nuance", "examples", "extensions", "context", "chatbot"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "divider-blocks", "uuid": "7b9d617c-89ca-4fa8-8e69-4a44315c336e", "title": "Divider blocks", "level": "core-learning", "order": 60, "keywords": ["divider", "blocks", "horizontal", "rule", "visual", "separation", "explanation", "practice"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" }
+                {
+                  "id": "text-blocks",
+                  "uuid": "63cb5e90-aea0-4df4-a454-ca3b1d2346f8",
+                  "title": "Text blocks",
+                  "level": "core-learning",
+                  "order": 10,
+                  "keywords": [
+                    "text",
+                    "blocks",
+                    "markdown",
+                    "paragraphs",
+                    "headings",
+                    "emphasis",
+                    "lists",
+                    "code",
+                    "preview",
+                    "readability"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "image-blocks",
+                  "uuid": "5fde93a3-11da-49b3-b920-3a2f299644dc",
+                  "title": "Image blocks",
+                  "level": "core-learning",
+                  "order": 20,
+                  "keywords": [
+                    "image",
+                    "blocks",
+                    "local",
+                    "asset",
+                    "https",
+                    "alt",
+                    "text",
+                    "label",
+                    "caption",
+                    "attribution",
+                    "references"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "link-blocks",
+                  "uuid": "40d9e96b-e6c5-45de-a152-88b8709338be",
+                  "title": "Link blocks",
+                  "level": "core-learning",
+                  "order": 30,
+                  "keywords": [
+                    "link",
+                    "blocks",
+                    "label",
+                    "url",
+                    "resource",
+                    "https",
+                    "trustworthy",
+                    "browser",
+                    "history",
+                    "bookmarks",
+                    "referrers",
+                    "logs"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "question-blocks",
+                  "uuid": "22d95a66-de5b-4e86-b8e3-2fe482acbf42",
+                  "title": "Question blocks",
+                  "level": "core-learning",
+                  "order": 40,
+                  "keywords": [
+                    "question",
+                    "blocks",
+                    "multiple",
+                    "choice",
+                    "prompt",
+                    "choices",
+                    "correct",
+                    "feedback",
+                    "distractors",
+                    "transitions"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "gpt-followup-blocks",
+                  "uuid": "2a0d2bec-07dc-46ed-b23d-b21a9eeeedd4",
+                  "title": "GPT Follow-up Prompt blocks",
+                  "level": "core-learning",
+                  "order": 50,
+                  "keywords": [
+                    "gpt",
+                    "follow-up",
+                    "prompt",
+                    "blocks",
+                    "questions",
+                    "nuance",
+                    "examples",
+                    "extensions",
+                    "context",
+                    "chatbot"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "divider-blocks",
+                  "uuid": "7b9d617c-89ca-4fa8-8e69-4a44315c336e",
+                  "title": "Divider blocks",
+                  "level": "core-learning",
+                  "order": 60,
+                  "keywords": [
+                    "divider",
+                    "blocks",
+                    "horizontal",
+                    "rule",
+                    "visual",
+                    "separation",
+                    "explanation",
+                    "practice"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                }
               ]
             },
             {
@@ -564,10 +629,92 @@ window.umedAppContentIndex = {
               "title": "AI-Generated Content",
               "order": 30,
               "slides": [
-                { "id": "widget-blocks", "uuid": "54f0370e-af09-4640-9d80-d532f75fd163", "title": "Widget blocks", "level": "advanced-topics", "order": 10, "keywords": ["widget", "blocks", "interactivity", "name", "markdown", "behavior", "controls", "data", "chart.js", "tabulator", "sortable.js"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "data-file-blocks", "uuid": "b9b7dec5-d2fe-4264-8e5f-a8f183676799", "title": "Data File blocks", "level": "advanced-topics", "order": 20, "keywords": ["data", "file", "blocks", "upload", "widgets", "name", "extensions", "prompt", "format", "browser", "session", "sensitive"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "instructions-blocks", "uuid": "5ae7fd50-1355-4536-b08a-2d4b33eea059", "title": "Instructions blocks", "level": "advanced-topics", "order": 30, "keywords": ["instructions", "blocks", "editor", "brief", "agent", "slide", "section", "category", "scope", "audience", "constraints", "sources"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" },
-                { "id": "trusted-sources", "uuid": "8ce0ad44-2634-4b9a-9fd4-974aa3236f9a", "title": "Trusted Sources blocks", "level": "advanced-topics", "order": 40, "keywords": ["trusted", "sources", "blocks", "category", "section", "landing", "files", "learner", "links", "context", "generation"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" }
+                {
+                  "id": "widget-blocks",
+                  "uuid": "54f0370e-af09-4640-9d80-d532f75fd163",
+                  "title": "Widget blocks",
+                  "level": "advanced-topics",
+                  "order": 10,
+                  "keywords": [
+                    "widget",
+                    "blocks",
+                    "interactivity",
+                    "name",
+                    "markdown",
+                    "behavior",
+                    "controls",
+                    "data",
+                    "chart.js",
+                    "tabulator",
+                    "sortable.js"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "data-file-blocks",
+                  "uuid": "b9b7dec5-d2fe-4264-8e5f-a8f183676799",
+                  "title": "Data File blocks",
+                  "level": "advanced-topics",
+                  "order": 20,
+                  "keywords": [
+                    "data",
+                    "file",
+                    "blocks",
+                    "upload",
+                    "widgets",
+                    "name",
+                    "extensions",
+                    "prompt",
+                    "format",
+                    "browser",
+                    "session",
+                    "sensitive"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "instructions-blocks",
+                  "uuid": "5ae7fd50-1355-4536-b08a-2d4b33eea059",
+                  "title": "Instructions blocks",
+                  "level": "advanced-topics",
+                  "order": 30,
+                  "keywords": [
+                    "instructions",
+                    "blocks",
+                    "editor",
+                    "brief",
+                    "agent",
+                    "slide",
+                    "section",
+                    "category",
+                    "scope",
+                    "audience",
+                    "constraints",
+                    "sources"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                },
+                {
+                  "id": "trusted-sources",
+                  "uuid": "8ce0ad44-2634-4b9a-9fd4-974aa3236f9a",
+                  "title": "Trusted Sources blocks",
+                  "level": "advanced-topics",
+                  "order": 40,
+                  "keywords": [
+                    "trusted",
+                    "sources",
+                    "blocks",
+                    "category",
+                    "section",
+                    "landing",
+                    "files",
+                    "learner",
+                    "links",
+                    "context",
+                    "generation"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                }
               ]
             },
             {
@@ -576,7 +723,27 @@ window.umedAppContentIndex = {
               "title": "Import PowerPoint Slides",
               "order": 40,
               "slides": [
-                { "id": "import-powerpoint", "uuid": "65ecb80b-8d26-4495-a312-10384b0d211b", "title": "Agent skill `import-powerpoint`", "level": "core-learning", "order": 10, "keywords": ["agent", "skill", "import-powerpoint", "presentation", "slides", "section", "blocks", "assets", "metadata", "accessibility", "citations"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" }
+                {
+                  "id": "import-powerpoint",
+                  "uuid": "65ecb80b-8d26-4495-a312-10384b0d211b",
+                  "title": "Agent skill `import-powerpoint`",
+                  "level": "core-learning",
+                  "order": 10,
+                  "keywords": [
+                    "agent",
+                    "skill",
+                    "import-powerpoint",
+                    "presentation",
+                    "slides",
+                    "section",
+                    "blocks",
+                    "assets",
+                    "metadata",
+                    "accessibility",
+                    "citations"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                }
               ]
             },
             {
@@ -585,7 +752,28 @@ window.umedAppContentIndex = {
               "title": "Search Indexing",
               "order": 50,
               "slides": [
-                { "id": "index-slides", "uuid": "4c1c3777-e908-491e-abce-e49259e0e037", "title": "Agent skill `index-slides`", "level": "core-learning", "order": 10, "keywords": ["agent", "skill", "index-slides", "validate", "synchronize", "hierarchy", "schemas", "uuids", "levels", "ordering", "keywords", "metadata"], "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z" }
+                {
+                  "id": "index-slides",
+                  "uuid": "4c1c3777-e908-491e-abce-e49259e0e037",
+                  "title": "Agent skill `index-slides`",
+                  "level": "core-learning",
+                  "order": 10,
+                  "keywords": [
+                    "agent",
+                    "skill",
+                    "index-slides",
+                    "validate",
+                    "synchronize",
+                    "hierarchy",
+                    "schemas",
+                    "uuids",
+                    "levels",
+                    "ordering",
+                    "keywords",
+                    "metadata"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-18T14:11:04.503Z"
+                }
               ]
             }
           ]

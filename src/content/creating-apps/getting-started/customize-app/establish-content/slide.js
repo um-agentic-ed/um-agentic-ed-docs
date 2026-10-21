@@ -6,12 +6,12 @@ window.umedAppContent["creating-apps/getting-started/customize-app/establish-con
   "level": "core-learning",
   "order": 45,
   "title": "Establish your content LICENSE",
-  "contentUpdatedAt": "2026-10-15T18:56:35.737Z",
+  "contentUpdatedAt": "2026-10-21T12:19:31.717Z",
   "content": {
     "blocks": [
       {
         "type": "text",
-        "markdown": "Choose licensing terms before publishing your app so users know what they may copy, modify, and redistribute. Record the terms in clearly named files at the repository root and summarize them in `README.md`.\n\nThe template demonstrates one possible split:\n\n- `LICENSE` applies the **MIT License** to software code.\n- `LICENSE-CC-BY-NC-4.0` applies **CC BY-NC 4.0** to rendered documentation and other non-code content.\n\nYou are responsible for selecting terms appropriate for your material, collaborators, institution, and intended uses. Confirm that you have needed permissions to include every image, dataset, and third-party resource for your intended uses. This documentation is not legal advice."
+        "markdown": "Choose licensing terms before publishing your app so users know what they may copy, modify, and redistribute. Record the terms in clearly named files at the repository root and summarize them in `README.md`.\n\nThe template demonstrates one possible split:\n\n- `LICENSE` applies the **MIT License** to software code.\n- `LICENSE-CC-BY-NC-4.0` applies **CC BY-NC 4.0** to rendered documentation and other non-code content.\n\nYou are responsible for selecting terms appropriate for your material, institution, and intended uses. Confirm that you have needed permissions if publicly sharing third-party images, data sets, or other resources. This documentation is not legal advice."
       },
       {
         "type": "link",
@@ -26,7 +26,7 @@ window.umedAppContent["creating-apps/getting-started/customize-app/establish-con
       {
         "type": "gptFollowup",
         "questions": [
-          "Help me think about an appropriate license for my educational app content and factors I should consider when choosing."
+          "Help me think about an appropriate license for my educational content and factors I should consider when choosing."
         ]
       }
     ]

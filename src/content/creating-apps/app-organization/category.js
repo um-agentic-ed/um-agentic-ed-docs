@@ -6,11 +6,7 @@ window.umedAppContent["creating-apps/app-organization"] = {
     "blocks": [
       {
         "type": "text",
-        "markdown": "Learn how an app organizes educational content and how an outline guides that structure."
-      },
-      {
-        "type": "instructions",
-        "instructions": "Fill the slides as you find them in app-outline.xlsx. Do not create new Sections. Create new Slides only as listed in the app outline file and fill them with the intended content."
+        "markdown": "`um-agentic-ed` apps uses a content outline to help you and your agent work together to quickly build your app and easily reorganize it when needed."
       }
     ]
   }

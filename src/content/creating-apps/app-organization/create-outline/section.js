@@ -6,11 +6,7 @@ window.umedAppContent["creating-apps/app-organization/create-outline"] = {
     "blocks": [
       {
         "type": "text",
-        "markdown": "Plan an app's content hierarchy in `app-outline.xlsx`, with help from AI when useful."
-      },
-      {
-        "type": "instructions",
-        "instructions": "This Section should introduce Editors to best practices for using app-outline.xlsx to help them plan and implement their app's organization. "
+        "markdown": "While you can just start creating slides, it is usually better to begin by building a content outline. The app system provide a simple way to do this that will help your AI agent help you.\n\nApp outlines are entirely optional, but recommended."
       }
     ]
   }

@@ -6,11 +6,11 @@ window.umedAppContent["creating-apps/getting-started"] = {
     "blocks": [
       {
         "type": "text",
-        "markdown": "To get started, you will:\n- Launch a new app using the [system template repository](https://github.com/um-agentic-ed/um-agentic-ed-parent).\n- Customize it to make it your own.\n- Fill it with your educational content."
+        "markdown": "To create an app, you will:\n- Launch a new app using the [system template repository](https://github.com/um-agentic-ed/um-agentic-ed-parent).\n- Customize it to make it your own.\n- Fill it with your educational content."
       },
       {
         "type": "text",
-        "markdown": "----\n## Quick Start Guide\n\n1. **Create a new app repository** [using the template](https://github.com/um-agentic-ed/um-agentic-ed-parent/generate).\n\n2. **Make a local clone** of your repository with the framework submodule:\n\n```sh\ngit clone --recurse-submodules https://github.com/<owner>/<your-app-name>\n```\n\n3. **Edit file '**{.large-bold `app.js`}**'** to describe your app, following its instructions. \n\n\n4. **Double-click '**{.large-bold `index.html`}**'** in your app folder—the app should open.\n\n\n5. **Ctrl-click the app title** in the upper left corner to toggle **editor mode**.  Choose your app folder and enter your editor name as prompted (in-app editing requires Chrome or another browser that supports the [File System Access API](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API)).\n\n6. Use the sidebar and Slides menu to **add Categories, Sections, and Slides** and the editing pane to **add content blocks to Slides** and **save your changes**. The app updates live.\n"
+        "markdown": "----\n## Quick Start Guide\n\n1. **Create a new app repository** [using the template](https://github.com/um-agentic-ed/um-agentic-ed-parent/generate).\n\n2. **Make a local clone** of your repository with the framework submodule:\n\n```sh\ngit clone --recurse-submodules https://github.com/<owner>/<your-app-name>\n```\n\n3. **Edit file '**{.large-bold `app.js`}**'** to describe your app, following its instructions. \n\n\n4. **Double-click '**{.large-bold `index.html`}**'** in your app folder—the app should open.\n\n\n5. **Ctrl-click the app title** in the upper left corner to toggle into **editor mode**.  Choose your app folder and enter your editor name as prompted (in-app editing requires Chrome or another browser that supports the [File System Access API](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API)).\n\n6. Use the sidebar and Slides menus to **add Categories, Sections, and Slides** and the editing pane to **add content blocks to Slides** and **save your changes**. The app updates live.\n"
       },
       {
         "type": "text",

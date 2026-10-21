@@ -1,12 +1,12 @@
 # um-agentic-ed
 
 > **NOTICE**: The `um-agentic-ed` system is in beta development and while usable 
-> at present may not be fully stable. We anticipate a first stable release in 
-> late 2026.
+> may not be fully stable. We anticipate a first stable release in late 2026.
 
-`um-agentic-ed` is a system for building education web apps that are interactive
-and dynamically updatable. Apps promote progressive, self-guided learning,
-foster team learning, and exploit generative AI to help both educators and learners.
+`um-agentic-ed` is a system for building interactive educational web apps that 
+promote progressive, self-guided team learning and help educators and learners 
+exploit generative AI. Apps are serverless and easy to implement with live content 
+editing.
 
 The system was developed at the University of Michigan but is freely usable by 
 anyone, with rebranding support.
@@ -16,19 +16,18 @@ anyone, with rebranding support.
 This repository, `um-agentic-ed-docs`, is an app built in the system that acts
 as the system documention as well as complete working app example.
 
-## Philosophy: collaborating with AI helps educators and learners
+## Collaborating with AI helps educators and learners
 
-AI is a boon that can help support all phases of educator-learner interactions. 
+AI is a boon that can support all phases of educator-learner interactions. 
 `um-agentic-ed` is designed to foster that process.
 
-Agentic AI helped us quickly create the `um-agentic-ed` system. It will also help
-you quickly create a content outline that AI can "hog in" from your instructions,
-including creating interactive widgets limited only by your imagination, that you
-can then edit within a running app. Finally, your apps will help learners use 
-AI to interact with your content and to learn actively with each other.
+Agentic AI helped quickly create the `um-agentic-ed` system. It will help you 
+quickly create a content outline that AI can "hog in" from your 
+instructions—including interactive widgets limited only by your imagination—that 
+you can then edit within a running app. Finally, your apps will help learners use 
+AI to interact with your content.
 
-`um-agentic-ed` uses modern tools to help you make your content come alive for 
-learners!
+`um-agentic-ed` uses AI to help make your content come alive for learners.
 
 ## Creating a new app
 

@@ -6,11 +6,7 @@ window.umedAppContent["creating-apps/content-generation"] = {
     "blocks": [
       {
         "type": "text",
-        "markdown": "Create and maintain educational content through in-app editing and supported agent workflows."
-      },
-      {
-        "type": "instructions",
-        "instructions": "Fill the slides as you find them in app-outline.xlsx. Do not create new Sections. Create new Slides only as listed in the app outline file and fill them with the intended content. Infer the target content from the Section and Slide titles in the context of the Framework behavior, and also from additional instructions you find in the SlideInstructions column of the app-outline file."
+        "markdown": "Now that you have created an app shell and initial outline, you will fill it with educational content in one of two main ways:\n- **In-app editing** with live updates.\n- **Agent-assisted content generation**, one category, section, slide, or widget at a time from instructions you enter in the app."
       }
     ]
   }

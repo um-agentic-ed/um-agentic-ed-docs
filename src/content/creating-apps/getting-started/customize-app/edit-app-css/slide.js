@@ -4,7 +4,7 @@ window.umedAppContent["creating-apps/getting-started/customize-app/edit-app-css"
   "uuid": "6e48ffc4-f39a-4cff-a11f-ef2487124408",
   "slideSchemaVersion": 2,
   "level": "core-learning",
-  "order": 40,
+  "order": 15,
   "title": "Edit `app.css` for app branding",
   "contentUpdatedAt": "2026-10-15T18:54:33.656Z",
   "content": {

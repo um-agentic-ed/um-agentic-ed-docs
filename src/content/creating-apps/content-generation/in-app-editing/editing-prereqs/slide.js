@@ -1,4 +1,24 @@
+window.umedAppContent = window.umedAppContent || {};
 window.umedAppContent["creating-apps/content-generation/in-app-editing/editing-prereqs"] = {
-  "id": "editing-prereqs", "uuid": "4d346b2a-2377-4bcb-b9f1-09f08d8e0c9b", "slideSchemaVersion": 2, "title": "Prerequisites for in-app editing", "level": "foundations", "order": 10, "contentUpdatedAt": "2026-10-18T14:11:04.503Z",
-  "content": { "blocks": [{ "type": "text", "markdown": "In-app editing requires a browser that supports the File System Access API, such as a current Chromium-based desktop browser. Open the local app launcher and choose the parent repository folder when prompted so the editor can save content files.\n\nOther modern browsers can display content, but editing is unavailable when the required file-system controls are missing. Keep the repository writable, and avoid editing the same app in multiple tabs or tools." }, { "type": "gptFollowup", "questions": ["Help me check whether my browser and local app folder support in-app editing."] }] }
+  "id": "editing-prereqs",
+  "uuid": "4d346b2a-2377-4bcb-b9f1-09f08d8e0c9b",
+  "slideSchemaVersion": 2,
+  "title": "Prerequisites for live editing",
+  "level": "foundations",
+  "order": 10,
+  "contentUpdatedAt": "2026-10-21T13:32:52.317Z",
+  "content": {
+    "blocks": [
+      {
+        "type": "text",
+        "markdown": "## Browser support\n\nAlthough your app should run in any browser, editor mode requires a browser that supports the File System Access API, such as a current **Chromium-based desktop browser** like Chrome or Edge. \n\nIn particular, Safari does not support the required system file access.\n\n\n"
+      },
+      {
+        "type": "gptFollowup",
+        "questions": [
+          "Help me check whether my browser and local app folder support in-app editing."
+        ]
+      }
+    ]
+  }
 };
