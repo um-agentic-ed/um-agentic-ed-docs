@@ -5,7 +5,7 @@ window.umedAppContent["creating-apps/content-generation/in-app-editing/editing-p
   "slideSchemaVersion": 2,
   "title": "Prerequisites for live editing",
   "level": "foundations",
-  "order": 10,
+  "order": 2,
   "contentUpdatedAt": "2026-10-21T13:32:52.317Z",
   "content": {
     "blocks": [

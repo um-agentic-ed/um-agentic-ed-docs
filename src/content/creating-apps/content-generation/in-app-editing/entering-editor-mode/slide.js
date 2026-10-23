@@ -5,7 +5,7 @@ window.umedAppContent["creating-apps/content-generation/in-app-editing/entering-
   "slideSchemaVersion": 2,
   "title": "Entering and exiting editor mode",
   "level": "foundations",
-  "order": 20,
+  "order": 5,
   "contentUpdatedAt": "2026-10-21T20:20:36.251Z",
   "content": {
     "blocks": [

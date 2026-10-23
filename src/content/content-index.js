@@ -244,6 +244,23 @@ window.umedAppContentIndex = {
                   "keywordsUpdatedAt": "2026-10-15T17:44:55.837Z"
                 }
               ]
+            },
+            {
+              "id": "static-serverless",
+              "uuid": "7c376856-94df-4ff4-b71f-a08f0035050d",
+              "title": "Static & Serverless",
+              "order": 30,
+              "slides": [
+                {
+                  "id": "static-serverless",
+                  "uuid": "229882f6-7d0a-42c1-8a80-63e3bf0a0c4c",
+                  "title": "Apps are static and serverless ",
+                  "level": "advanced-topics",
+                  "order": 10,
+                  "keywords": [],
+                  "keywordsUpdatedAt": "2026-10-23T11:24:32.359Z"
+                }
+              ]
             }
           ]
         },
@@ -374,7 +391,7 @@ window.umedAppContentIndex = {
                   "uuid": "4d346b2a-2377-4bcb-b9f1-09f08d8e0c9b",
                   "title": "Prerequisites for live editing",
                   "level": "foundations",
-                  "order": 10,
+                  "order": 2,
                   "keywords": [
                     "prerequisites",
                     "editing",
@@ -396,7 +413,7 @@ window.umedAppContentIndex = {
                   "uuid": "b9ec444f-a605-4dfc-a9dc-9d3b17152548",
                   "title": "Entering and exiting editor mode",
                   "level": "foundations",
-                  "order": 20,
+                  "order": 5,
                   "keywords": [
                     "entering",
                     "editor",
@@ -416,7 +433,7 @@ window.umedAppContentIndex = {
                 {
                   "id": "general-slide-edit",
                   "uuid": "e97a71d0-1503-41e9-96bf-5b98c66918d1",
-                  "title": "General editing instructions",
+                  "title": "Editor panel overview",
                   "level": "core-learning",
                   "order": 30,
                   "keywords": [
@@ -465,7 +482,7 @@ window.umedAppContentIndex = {
                   "uuid": "27305e1b-787f-438c-8910-53b8978e9ddf",
                   "title": "App locking to prevent editing collisons",
                   "level": "foundations",
-                  "order": 25,
+                  "order": 23,
                   "keywords": [
                     "app",
                     "locking",
@@ -486,9 +503,9 @@ window.umedAppContentIndex = {
                 {
                   "id": "adding-categories",
                   "uuid": "e5a0ad07-8199-4421-a224-c2d7dd358cf9",
-                  "title": "Adding categories, sections, and slides",
+                  "title": "Adding and reordering content elements",
                   "level": "core-learning",
-                  "order": 35,
+                  "order": 27,
                   "keywords": [],
                   "keywordsUpdatedAt": "2026-10-21T20:25:39.816Z"
                 }
@@ -586,7 +603,7 @@ window.umedAppContentIndex = {
                 {
                   "id": "gpt-followup-blocks",
                   "uuid": "2a0d2bec-07dc-46ed-b23d-b21a9eeeedd4",
-                  "title": "GPT Follow-up Prompt blocks",
+                  "title": "GPT Follow-up blocks",
                   "level": "core-learning",
                   "order": 50,
                   "keywords": [
