@@ -248,7 +248,7 @@ window.umedAppContentIndex = {
             {
               "id": "static-serverless",
               "uuid": "7c376856-94df-4ff4-b71f-a08f0035050d",
-              "title": "Static & Serverless",
+              "title": "Add Server Support",
               "order": 30,
               "slides": [
                 {
@@ -257,6 +257,15 @@ window.umedAppContentIndex = {
                   "title": "Apps are static and serverless ",
                   "level": "advanced-topics",
                   "order": 10,
+                  "keywords": [],
+                  "keywordsUpdatedAt": "2026-10-23T11:24:32.359Z"
+                },
+                {
+                  "id": "add-server-support",
+                  "uuid": "229882f6-7d0a-42c1-8a80-63e3bf0aaaaa",
+                  "title": "Add server support to your app",
+                  "level": "advanced-topics",
+                  "order": 20,
                   "keywords": [],
                   "keywordsUpdatedAt": "2026-10-23T11:24:32.359Z"
                 }

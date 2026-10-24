@@ -6,12 +6,12 @@ window.umedAppContent["creating-apps/getting-started/customize-app/set-app-ident
   "level": "advanced-topics",
   "order": 60,
   "title": "Use agent skill `set-app-identity`",
-  "contentUpdatedAt": "2026-10-21T12:24:17.962Z",
+  "contentUpdatedAt": "2026-10-24T12:13:28.650Z",
   "content": {
     "blocks": [
       {
         "type": "text",
-        "markdown": "Instead of editing app identity values by hand, you can instead invoke this framework-supported skill in your coding agent:\n\n```text\n/build-app set-app-identity <requested identity or branding changes>\n```\n\nThe skill reads the current `app.js` and `app.css` files, collects missing choices, validates names and URLs, checks color contrast, and creates a unique UUID for your app as needed.\n\nThis could be your first chance to see how helpful your agent can be when building build your app!"
+        "markdown": "Instead of editing app identity values by hand, you can instead invoke this framework-supported skill in your coding agent:\n\n```text\n/build-app set-app-identity <requested identity or branding changes>\n```\n\nThe skill reads the current `app.js` and `app.css` files, collects missing choices, validates names and URLs, checks color contrast, and creates a unique UUID for your app as needed.\n\nThis is your first chance to see how helpful your agent can be when building build your app!"
       }
     ]
   }

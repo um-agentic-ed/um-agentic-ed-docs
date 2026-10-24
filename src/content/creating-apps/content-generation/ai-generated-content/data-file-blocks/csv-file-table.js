@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  const widgetKey = "creating-apps/getting-started/static-serverless/static-serverless/csv-file-table";
+  const widgetKey = "creating-apps/content-generation/ai-generated-content/data-file-blocks/csv-file-table";
   const dataFileName = "user-csv-file";
 
   function parseCsv(text) {
