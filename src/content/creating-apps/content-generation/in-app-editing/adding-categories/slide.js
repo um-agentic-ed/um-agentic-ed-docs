@@ -6,12 +6,12 @@ window.umedAppContent["creating-apps/content-generation/in-app-editing/adding-ca
   "level": "core-learning",
   "order": 27,
   "title": "Adding and reordering content elements",
-  "contentUpdatedAt": "2026-10-21T22:37:57.844Z",
+  "contentUpdatedAt": "2026-10-24T21:41:13.644Z",
   "content": {
     "blocks": [
       {
         "type": "text",
-        "markdown": " Editor mode modifies the behavior of the subject, sidebar, and slide menu lists to enable content addition and sorting (deletion is handled by buttons described on the next slide).\n\n## Adding tree elements\n\nThe subject menu, sidebar, and slide menu lists all obtain a spacer element in editor mode that displays a {.large-bold (+)} icon when you hover over it; click on it to add a new subject, category, section, or slide at that point in the tree. You will be prompted for additional required information."
+        "markdown": " Editor mode modifies the behavior of the subject, sidebar, and slide menu lists to enable content addition and sorting (deletion is handled by buttons described on the next slide).\n\n## Adding tree elements\n\nThe subject menu, sidebar, and slide menu lists all acquire a spacer element in editor mode that displays a {.large-bold (+)} icon when you hover over it; click on it to add a new subject, category, section, or slide at that point in the tree. You will be prompted for additional information."
       },
       {
         "type": "image",

@@ -6,25 +6,30 @@ window.umedAppContent["creating-apps/content-generation/content-block-types/text
   "title": "Text blocks",
   "level": "core-learning",
   "order": 10,
-  "contentUpdatedAt": "2026-10-22T22:26:57.600Z",
+  "contentUpdatedAt": "2026-10-25T23:20:09.771Z",
   "content": {
     "blocks": [
       {
         "type": "text",
-        "markdown": "A {.large-bold `Text`} {.bold block} is the most comment block type found on most slides that renders **formatted text** on a slide.  The text input field formats your text as **markdown** and renders it as HTML.\n\n## Using markdown\n\nMarkdown is easy! \n\nIf nothing else, just type text and it will render as regular paragraphs. \n\n\n\n\ndisplays learner-facing writing from its **Markdown** input. Use paragraphs, headings, emphasis, lists, and inline code to structure an explanation without raw HTML.\n\nCheck the live preview for hierarchy, spacing, and readability. Keep one slide focused on a digestible point; split long material across slides or offer optional depth through GPT follow-ups."
+        "markdown": "A {.large-bold `Text`} {.bold block} is the most common block type found on most slides. You enter text in markdown format and the app uses the `markdown-it` library to render it into  **formatted text**.\n\n## Using markdown\n\nMarkdown is easy! \n\nTo start, just type text and it will render as regular paragraphs. Then continue to add formatting marks, e.g., `**bold text**` will render **bold text**.\n\nAn example text block with the most common uses is provided below; see the [markdown-it syntax guide](https://markdown-it.github.io/) for additional features.\n\n## Custom text styles\n\nA great feature of `markdown-it` as implemented by `um-agentic-ed` is that you can create your own custom text styles within `app.css`, and apply them to any text with syntax `{.custom-style target content}`, e.g., `{.blue blue}` gives {.blue blue}.\n\n"
       },
       {
         "type": "image",
         "markdown": "## Example",
-        "images": [],
+        "images": [
+          {
+            "source": "slide",
+            "url": "text_block.jpg"
+          }
+        ],
         "alt": "",
-        "maxWidths": "",
-        "center": false,
+        "maxWidths": "600px",
+        "center": true,
         "label": null
       },
       {
         "type": "text",
-        "markdown": "---\nThis `text block` shows some of the **most comment markdown features** you are likely to use. \n\n## Second-level header\n\nThis is a regular list:\n- First item.\n- Second item.\n  - A nested item.\n\nThis is an ordered list:\n1. Item A.\n2. Item B.\n\n### Third-level header\n\nThis is a table:\n\n| Column 1 | Column 2 |\n| --- | --- | \n| Value 1 | Value 2 |"
+        "markdown": "---\nThis `text block` shows the *most common* **markdown features**, including the use of {.red-large-bold custom styles}.\n\n## Second-level header\n\n### Third-level header\n\nA regular list:\n- First item.\n- Second item.\n  - Nested item.\n\nOrdered list:\n1. Item A.\n2. Item B.\n\nA table:\n\n| Column 1 | Column 2 |\n| --- | --- | \n| Value 1 | Value 2 |"
       }
     ]
   }

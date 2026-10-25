@@ -156,7 +156,7 @@ window.umedAppContentIndex = {
                 {
                   "id": "edit-app-css",
                   "uuid": "6e48ffc4-f39a-4cff-a11f-ef2487124408",
-                  "title": "Edit `app.css` for app branding",
+                  "title": "Edit `app.css` for app branding (optional)",
                   "level": "core-learning",
                   "order": 15,
                   "keywords": [
@@ -822,6 +822,13 @@ window.umedAppContentIndex = {
               "uuid": "f62e6d72-27f7-4824-9771-bf59e845adf7",
               "title": "As a Repository",
               "order": 20,
+              "slides": []
+            },
+            {
+              "id": "public-web-site",
+              "uuid": "95cbcd8c-5232-4dc5-9cde-5b2a52da0058",
+              "title": "As a Public Web Site",
+              "order": 15,
               "slides": []
             }
           ]

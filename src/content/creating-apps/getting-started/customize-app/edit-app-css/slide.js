@@ -5,8 +5,8 @@ window.umedAppContent["creating-apps/getting-started/customize-app/edit-app-css"
   "slideSchemaVersion": 2,
   "level": "core-learning",
   "order": 15,
-  "title": "Edit `app.css` for app branding",
-  "contentUpdatedAt": "2026-10-24T12:09:54.360Z",
+  "title": "Edit `app.css` for app branding (optional)",
+  "contentUpdatedAt": "2026-10-25T22:58:52.827Z",
   "content": {
     "blocks": [
       {
