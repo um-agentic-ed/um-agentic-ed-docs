@@ -752,7 +752,7 @@ window.umedAppContentIndex = {
                 {
                   "id": "import-powerpoint",
                   "uuid": "65ecb80b-8d26-4495-a312-10384b0d211b",
-                  "title": "Agent skill `import-powerpoint`",
+                  "title": "Importing slides from PowerPoint files",
                   "level": "core-learning",
                   "order": 10,
                   "keywords": [

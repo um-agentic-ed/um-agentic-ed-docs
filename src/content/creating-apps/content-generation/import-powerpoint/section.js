@@ -1,1 +1,8 @@
-window.umedAppContent["creating-apps/content-generation/import-powerpoint"] = { "uuid": "a2ed6552-1903-4c18-882d-6ea9a7cffa51", "slideSchemaVersion": 2, "title": "Import PowerPoint Slides", "content": { "blocks": [{ "type": "text", "markdown": "Convert a PowerPoint presentation into app slides with the supported import workflow." }] } };
+window.umedAppContent["creating-apps/content-generation/import-powerpoint"] = {
+  "uuid": "a2ed6552-1903-4c18-882d-6ea9a7cffa51",
+  "slideSchemaVersion": 2,
+  "title": "Import PowerPoint Slides",
+  "content": {
+    "blocks": []
+  }
+};

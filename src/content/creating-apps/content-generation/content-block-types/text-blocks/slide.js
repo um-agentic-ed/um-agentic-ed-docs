@@ -6,12 +6,12 @@ window.umedAppContent["creating-apps/content-generation/content-block-types/text
   "title": "Text blocks",
   "level": "core-learning",
   "order": 10,
-  "contentUpdatedAt": "2026-10-25T23:20:09.771Z",
+  "contentUpdatedAt": "2026-10-26T18:52:59.091Z",
   "content": {
     "blocks": [
       {
         "type": "text",
-        "markdown": "A {.large-bold `Text`} {.bold block} is the most common block type found on most slides. You enter text in markdown format and the app uses the `markdown-it` library to render it into  **formatted text**.\n\n## Using markdown\n\nMarkdown is easy! \n\nTo start, just type text and it will render as regular paragraphs. Then continue to add formatting marks, e.g., `**bold text**` will render **bold text**.\n\nAn example text block with the most common uses is provided below; see the [markdown-it syntax guide](https://markdown-it.github.io/) for additional features.\n\n## Custom text styles\n\nA great feature of `markdown-it` as implemented by `um-agentic-ed` is that you can create your own custom text styles within `app.css`, and apply them to any text with syntax `{.custom-style target content}`, e.g., `{.blue blue}` gives {.blue blue}.\n\n"
+        "markdown": "A {.large-bold `Text`} {.bold block} is used on most slides. You enter text in markdown format and the app uses the [markdown-it](https://github.com/markdown-it/markdown-it) library to render it into  **formatted text**. \n\n## Using markdown\n\nMarkdown is easy—just type text and it will render as regular paragraphs. Continue by adding formatting marks, e.g., `**bold text**` will render **bold text**.\n\nAn example text block with the most common uses is provided below; see the [markdown-it syntax guide](https://markdown-it.github.io/) for additional features.\n\nAI agents can also convert a document to markdown for you.\n\n## Custom text styles\n\nYou can create your own custom text styles within `app.css`, or use pre-defined styles from `src/um-agentic-ed-framework/styles/markdown-styles.css`, and apply them to any text with syntax `{.custom-style target content}`, e.g., `{.blue blue}` gives {.blue blue} text.\n\n"
       },
       {
         "type": "image",

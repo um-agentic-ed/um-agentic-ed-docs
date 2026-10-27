@@ -17,6 +17,7 @@
 
       const timeSpan = document.createElement("fieldset");
       timeSpan.className = "widget-control";
+      timeSpan.style.flexDirection = "row";
       const legend = document.createElement("legend");
       legend.textContent = "Time span";
       const radioName = `weather-span-${Math.random().toString(36).slice(2)}`;

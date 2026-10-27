@@ -6,12 +6,12 @@ window.umedAppContent["creating-apps/content-generation/content-block-types/gpt-
   "title": "GPT Follow-up blocks",
   "level": "core-learning",
   "order": 50,
-  "contentUpdatedAt": "2026-10-22T21:51:34.503Z",
+  "contentUpdatedAt": "2026-10-26T13:53:11.480Z",
   "content": {
     "blocks": [
       {
         "type": "text",
-        "markdown": "A {.large-bold `GPT Follow-up`} {.bold block} stores **AI prompt suggestions** created by editors to help learners explore a slide topic in more depth. \n\nPrompt suggestions are one way that `um-agentic-ed` rethinks how learners interact with material. They encourage you to provide a framework that learners can use to explore. As an expert, you know what good questions are - help your learners ask them.\n\n## How prompt blocks work\n\nYou enter one ore more prompt suggestions into the block, one per text input. The app gathers suggestions at the slide bottom. Clicking a prompt button:\n- Copies the app context, slide text, and prompt to the clipboard.\n- Opens a chatbot once where the learner can paste and modify the prompt before submitting.\n\nWe do not embed AI in the app to avoid being too restrictive. You can specify a recommended chatbot via field `chatbotUrl` in `app.js`, but learners can use your prompts as they prefer."
+        "markdown": "A {.large-bold `GPT Follow-up`} {.bold block} stores **AI prompt suggestions** created by editors to help learners explore a slide topic in more depth. \n\nPrompt suggestions are one way that `um-agentic-ed` rethinks how learners interact with your material. They encourage you to provide a framework that learners can use to explore. As an expert, you know what good questions are - help your learners ask them.\n\n## How prompt blocks work\n\nYou enter one ore more prompt suggestions into the block, one per text input. The app gathers suggestions at the slide bottom. Clicking a prompt button:\n- Copies the app context, slide text, and prompt to the clipboard.\n- Opens a chatbot once where the learner can paste and modify the prompt before submitting.\n\nWe do not embed AI in the app to avoid being too restrictive. You can specify a recommended chatbot via field `chatbotUrl` in `app.js`, but learners can use your prompts as they prefer, including using browser plugins that read the prompts directly from the app page."
       },
       {
         "type": "image",
