@@ -5,7 +5,7 @@ window.umedAppContent["creating-apps/content-generation/in-app-editing/app-locki
   "slideSchemaVersion": 2,
   "title": "App locking to prevent editing collisons",
   "level": "foundations",
-  "order": 23,
+  "order": 30,
   "contentUpdatedAt": "2026-10-24T21:38:42.787Z",
   "content": {
     "blocks": [

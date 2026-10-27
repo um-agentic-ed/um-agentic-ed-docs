@@ -5,7 +5,7 @@ window.umedAppContent["creating-apps/content-generation/in-app-editing/general-s
   "slideSchemaVersion": 2,
   "title": "Editor panel overview",
   "level": "core-learning",
-  "order": 30,
+  "order": 50,
   "contentUpdatedAt": "2026-10-24T21:44:41.011Z",
   "content": {
     "blocks": [

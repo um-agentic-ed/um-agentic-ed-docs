@@ -4,7 +4,7 @@ window.umedAppContent["creating-apps/getting-started/customize-app/establish-con
   "uuid": "d5af65a7-1ce3-4cba-aa22-bf67de4c3c97",
   "slideSchemaVersion": 2,
   "level": "core-learning",
-  "order": 45,
+  "order": 40,
   "title": "Establish your content LICENSE",
   "contentUpdatedAt": "2026-10-21T12:19:31.717Z",
   "content": {

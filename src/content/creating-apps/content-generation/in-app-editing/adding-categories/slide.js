@@ -4,7 +4,7 @@ window.umedAppContent["creating-apps/content-generation/in-app-editing/adding-ca
   "uuid": "e5a0ad07-8199-4421-a224-c2d7dd358cf9",
   "slideSchemaVersion": 2,
   "level": "core-learning",
-  "order": 27,
+  "order": 40,
   "title": "Adding and reordering content elements",
   "contentUpdatedAt": "2026-10-24T21:41:13.644Z",
   "content": {

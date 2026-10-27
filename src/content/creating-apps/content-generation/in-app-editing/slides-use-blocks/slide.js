@@ -5,7 +5,7 @@ window.umedAppContent["creating-apps/content-generation/in-app-editing/slides-us
   "slideSchemaVersion": 2,
   "title": "Slides are built from blocks",
   "level": "core-learning",
-  "order": 40,
+  "order": 60,
   "contentUpdatedAt": "2026-10-26T13:41:02.427Z",
   "content": {
     "blocks": [

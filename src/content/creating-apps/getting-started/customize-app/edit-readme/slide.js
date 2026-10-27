@@ -4,7 +4,7 @@ window.umedAppContent["creating-apps/getting-started/customize-app/edit-readme"]
   "uuid": "cc92ad35-d4b8-4069-b1df-190106a9a471",
   "slideSchemaVersion": 2,
   "level": "core-learning",
-  "order": 20,
+  "order": 30,
   "title": "Edit `README.md` for GitHub",
   "contentUpdatedAt": "2026-10-15T18:47:49.945Z",
   "content": {
