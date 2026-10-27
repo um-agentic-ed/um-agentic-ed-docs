@@ -1,1 +1,8 @@
-window.umedAppContent["creating-apps/migrate-app-version"] = { "uuid": "be1bdd35-b9be-4c00-8c3a-18a82deece36", "slideSchemaVersion": 2, "title": "Migrate an App Version", "content": { "blocks": [{ "type": "text", "markdown": "Update an app to a newer framework version using the supported migration workflow." }] } };
+window.umedAppContent["creating-apps/migrate-app-version"] = {
+  "uuid": "be1bdd35-b9be-4c00-8c3a-18a82deece36",
+  "slideSchemaVersion": 2,
+  "title": "Migrate an App Version",
+  "content": {
+    "blocks": []
+  }
+};

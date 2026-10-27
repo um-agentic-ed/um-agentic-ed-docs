@@ -1,1 +1,0 @@
-window.umedAppContent["creating-apps/sharing-app/repository"] = { "uuid": "f62e6d72-27f7-4824-9771-bf59e845adf7", "slideSchemaVersion": 2, "title": "As a Repository", "content": { "blocks": [{ "type": "text", "markdown": "Share, copy, or host an app through its source repository." }] } };

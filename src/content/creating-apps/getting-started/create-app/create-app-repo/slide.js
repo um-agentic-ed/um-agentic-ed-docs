@@ -6,7 +6,7 @@ window.umedAppContent["creating-apps/getting-started/create-app/create-app-repo"
   "level": "foundations",
   "order": 10,
   "title": "Create an app repository from the template",
-  "contentUpdatedAt": "2026-10-21T12:06:34.253Z",
+  "contentUpdatedAt": "2026-10-27T15:03:16.603Z",
   "content": {
     "blocks": [
       {

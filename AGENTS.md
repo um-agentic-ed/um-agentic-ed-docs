@@ -64,16 +64,12 @@ In addition to the content guidelines provided in
   will explain how to use the `um-agentic-ed` system based on the generic Parent files
   and `src/um-agentic-ed-framework` you will find in this repository. The specific
   documentation content in `src/content` is not the context for creating new content,
-  other than the file tree organization and to help see what has already been documented. 
-- When working on one Section or Slide, focus on its specific goals in the provided
-  `app-outline.xlsx`; placing them in context will help you put the right content
-  on the right slides. The Subject, Category, Section and Slide columns in the outline
-  file are the intended titles of those elements.
-- Be concise but clear; favor content that guides users to the features they should
-  recognize in apps, and essential information to using them effectively, but
+  other than the file tree organization, to help see what has already been documented, 
+  and as a general style guide for matching new slides to old slides in look and feel.
+- Be comprehensive and clear but concise; favor content that guides users to the features 
+  they should recognize in apps, and essential information to using them effectively, but
   avoid overly long descriptions just to fill space.
-- Work to document and illustrate all key app features in an organized fashion; 
-  following the organization found in `app-outline.xlsx`.
+- Work to document and illustrate all key app features in an organized fashion.
 - Separate app developer from app user concerns.
 - When possible, use image blocks to illustrate features in a running app.  This
   might be done either by using existing codebase support, e.g., using SVG icons,

@@ -5,8 +5,8 @@ window.umedAppContent["creating-apps/getting-started/create-app/make-local-clone
   "slideSchemaVersion": 2,
   "level": "foundations",
   "order": 20,
-  "title": "Make a local clone of your repository",
-  "contentUpdatedAt": "2026-10-24T12:07:47.096Z",
+  "title": "Make a local clone of your repository ",
+  "contentUpdatedAt": "2026-10-27T22:13:15.778Z",
   "content": {
     "blocks": [
       {

@@ -1,7 +1,7 @@
 window.umedAppContent["creating-apps/content-generation/in-app-editing"] = {
   "uuid": "b56c3490-fd75-4d80-b7a9-146ce1542b15",
   "slideSchemaVersion": 2,
-  "title": "Live in-app editing (editor mode)",
+  "title": "Live In-App Editing",
   "content": {
     "blocks": [
       {
