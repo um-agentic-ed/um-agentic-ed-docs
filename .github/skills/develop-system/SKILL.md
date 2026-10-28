@@ -13,8 +13,8 @@ identity or educational content.
 
 ## Authorization and instructions
 
-Invocation authorizes system-level changes only within the accompanying brief.
-It does not authorize unrelated changes, unacknowledged compatibility breaks,
+Invocation authorizes app system/framework changes only within the accompanying 
+brief. It does not authorize unrelated changes, unacknowledged compatibility breaks,
 or changes to App educational content.
 
 Before acting:

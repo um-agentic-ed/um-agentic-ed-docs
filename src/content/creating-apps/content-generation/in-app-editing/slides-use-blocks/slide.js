@@ -6,7 +6,7 @@ window.umedAppContent["creating-apps/content-generation/in-app-editing/slides-us
   "title": "Slides are built from blocks",
   "level": "core-learning",
   "order": 60,
-  "contentUpdatedAt": "2026-10-26T13:41:02.427Z",
+  "contentUpdatedAt": "2026-10-28T12:55:50.871Z",
   "content": {
     "blocks": [
       {
@@ -19,7 +19,7 @@ window.umedAppContent["creating-apps/content-generation/in-app-editing/slides-us
       },
       {
         "type": "text",
-        "markdown": "## Landing slides vs. regular content slides \n\nWhen adding blocks to slides, the available block types depends on the kind of slide it is.\n\n**Landing slides** are the single slides assigned to the beginning of a tree level. There is exactly one landing slide for every app, subject, category, and section. Landing slides support trusted context sources used to fill multiple slides, but do not have learner levels. Landing slides are optional; leave them empty to omit them.\n\n**Regular content slides** are the slides that fill a section, and thus comprise most of a typical app, although it is possible to create a section with just a landing slide and no regular slides."
+        "markdown": "## Landing slides vs. regular content slides \n\nWhen adding blocks to slides, the available block types depends on the kind of slide it is.\n\n**Landing slides** are the single slides assigned to the beginning of a tree level. There is exactly one landing slide for every app, subject, category, and section. Landing slides support trusted context sources used to fill multiple slides, but do not have slide/learner levels. Landing slides are optional; leave them empty to omit them.\n\n**Regular content slides** are the slides that fill a section, and thus comprise most of a typical app, although it is possible to create a section with just a landing slide and no regular slides."
       }
     ]
   }

@@ -8,38 +8,45 @@
  */
 window.umedAppIdentity = {
   // Immutable unique ID (UUID v4) of this App. Generate a new one for each
-  // new App and NEVER change it afterwards: Learner notes saved in the browser 
+  // new App and NEVER change it afterwards: User notes saved in the browser 
   // and exported notes files are matched to the App by this value.
   appUuid: "2fa4bc6b-9def-4f9a-88cb-3de73c78695c",
 
   // Short, lowercase, filesystem-safe name using only a-z, 0-9 and hyphens.
-  // Used for the file name of exported Learner notes: <appName>.notes.json.
+  // Used for the file name of exported User notes: <appName>.notes.json.
   appName: "um-agentic-ed-docs",
 
   // Human-readable title. The Framework shows it both in the page header and
   // as the browser tab title, so keep it short enough to fit.
   appTitle: "UM Agentic Ed Docs",
 
-  // Whether Learners and Editors use the Subject level in navigation. Use true
-  // for Apps with one or more visible Subjects. When false, the content index
-  // must contain exactly one hidden Subject whose id and title are both
+  // Whether Learners/Users and Editors use the Subject tree-level in navigation. 
+  // Use true for Apps with one or more visible Subjects. When false, the content 
+  // index must contain exactly one hidden Subject whose id and title are both
   // "app-subject"; routes still include that Subject id.
   subjectsEnabled: true,
 
-  // The subject area Learners study. Together with learner Level it gives AI
-  // chatbots context when a Learner asks about a Slide, in the sentence
-  // "I am a <learnerLevel> learner in <discipline>."
+  // The Slide Levels used to organize navigation in the App. The defaults are
+  // recommended for many educational apps, but you can change the wording or
+  // number of levels as needed. Names become kebab-case identifiers in Slide
+  // files (for example, "Core Learning" becomes "core-learning"). Leave the
+  // array empty to suppress the use of Slide Levels.
+  slideLevels: ["Foundations", "Core Learning", "Advanced Topics"],
+
+  // The subject area of the App. Together with a userLevel it gives AI chatbots 
+  // context when a Learner/User asks about a Slide, in the sentence
+  // "I am a <userLevel> learner/user in <discipline>."
   // Examples: "organic chemistry", "molecular genetic pathology".
   discipline: "um-agentic-ed app development",
 
-  // The typical Learner this App targets, as an adjective phrase that fits
-  // "I am a ___ learner". Examples: "high school", "post-graduate", "beginning".
-  learnerLevel: "beginning",
+  // The typical Learner/User this App targets, as an adjective phrase that fits
+  // "I am a ___ learner/user". Examples: "high school", "post-graduate", "beginning".
+  userLevel: "beginning",
 
   // Web address of the AI chatbot that opens in a new browser tab when a
-  // Learner asks about a Slide. Slide text is copied to the clipboard to paste
-  // there. Must start with https:// (or http://). Use your institution's or a
-  // preferred chatbot, e.g., "https://chatgpt.com/" or "https://claude.ai/".
+  // Learner/User asks about a Slide. Slide text is copied to the clipboard to 
+  // paste there. Must start with https:// (or http://). Use your institution's 
+  // or a preferred chatbot, e.g., "https://chatgpt.com/" or "https://claude.ai/".
   // Leave it as "" to copy prompts without opening a chatbot.
   chatbotUrl: "https://chatgpt.com/",
 

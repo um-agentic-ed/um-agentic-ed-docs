@@ -1,1 +1,0 @@
-window.umedAppContent["using-apps/obtaining-app/app-distibution"] = { "uuid": "30e14e36-abdd-460e-a902-e38bc7e624d0", "slideSchemaVersion": 2, "title": "App Distibution Types", "content": { "blocks": [{ "type": "text", "markdown": "Compare single exported HTML files with apps obtained by cloning a repository." }] } };
