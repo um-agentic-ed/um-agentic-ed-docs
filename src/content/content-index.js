@@ -1379,7 +1379,25 @@ window.umedAppContentIndex = {
               "uuid": "72c192d3-d18c-41bc-abd7-caee35f699a1",
               "title": "Using an Agent",
               "order": 10,
-              "slides": []
+              "slides": [
+                {
+                  "id": "app-migration",
+                  "uuid": "9b6ba89c-3f46-40f9-99b6-33a3691c5b16",
+                  "title": "App migration not yet needed",
+                  "level": "foundations",
+                  "order": 10,
+                  "keywords": [
+                    "app",
+                    "breaking",
+                    "made",
+                    "migration",
+                    "needed",
+                    "releases",
+                    "yet"
+                  ],
+                  "keywordsUpdatedAt": "2026-10-28T00:22:58.779Z"
+                }
+              ]
             }
           ]
         }
