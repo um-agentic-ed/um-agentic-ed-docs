@@ -3,11 +3,6 @@ window.umedAppContent["using-apps/presenter-mode/live-presenter"] = {
   "slideSchemaVersion": 2,
   "title": "Live Presenter Features",
   "content": {
-    "blocks": [
-      {
-        "type": "text",
-        "markdown": "Use the whiteboard and interactive widgets while presenting to learners."
-      }
-    ]
+    "blocks": []
   }
 };

@@ -6,7 +6,7 @@ window.umedAppContent["using-apps/learner-mode/note-taking"] = {
     "blocks": [
       {
         "type": "text",
-        "markdown": "Capture text and drawings, rely on automatic saving, and export notes when needed."
+        "markdown": "As a learning and teamwork aid, `um-agentic-ed` apps allow you to make and save notes and sketches about an app's content."
       }
     ]
   }

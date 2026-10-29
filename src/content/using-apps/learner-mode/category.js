@@ -6,7 +6,7 @@ window.umedAppContent["using-apps/learner-mode"] = {
     "blocks": [
       {
         "type": "text",
-        "markdown": "Navigate content, use interactive learning features, and keep personal notes in learner mode."
+        "markdown": "This section describes the **regular usage mode for apps**, called Learner Mode for educational apps, or, more generally, User Mode. \n\nYou will learn how to:\n- Navigate content.\n- Use interactive slide features unique to the app system.\n- Take notes and make sketches."
       }
     ]
   }

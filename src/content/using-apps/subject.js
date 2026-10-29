@@ -3,11 +3,6 @@ window.umedAppContent["using-apps"] = {
   "slideSchemaVersion": 2,
   "title": "Using Apps",
   "content": {
-    "blocks": [
-      {
-        "type": "text",
-        "markdown": ""
-      }
-    ]
+    "blocks": []
   }
 };
