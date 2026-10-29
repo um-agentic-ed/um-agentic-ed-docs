@@ -6,7 +6,7 @@ window.umedAppContent["creating-apps/sharing-app/app-sharing-modes/export-files"
   "level": "core-learning",
   "order": 10,
   "title": "Sharing as single exported files",
-  "contentUpdatedAt": "2026-10-27T21:35:37.296Z",
+  "contentUpdatedAt": "2026-10-29T16:36:47.250Z",
   "content": {
     "blocks": [
       {
@@ -44,6 +44,12 @@ window.umedAppContent["creating-apps/sharing-app/app-sharing-modes/export-files"
       {
         "type": "text",
         "markdown": "5. Open the file and check its navigation, images, widgets and other content before distributing it.\n\n## Keep in mind ...\n\n- An **export is a snapshot** —you must re-export and redistribute after any content changes; importantly, apps retain their unique identifier so things like learner notes will transfer to the new file.\n- External links and third-party widget libraries may still require learner internet access (although once libraries are cached, export files will usually continue to work offline)."
+      },
+      {
+        "type": "link",
+        "markdown": "## View these docs as a single export file\n\nTo see these documentation pages in an app running as a single encapsulated export, download file `um-agentic-ed-docs-vX.X.X.html` for the latest release:",
+        "label": "um-agentic-ed-docs releases",
+        "url": "https://github.com/um-agentic-ed/um-agentic-ed-docs/releases"
       }
     ]
   }
