@@ -41,34 +41,34 @@ git clone --recurse-submodules https://github.com/<owner>/<your-app-name>
 cd <your-app-name>
 ```
 
-3. Check your installation by double-clicking `index.html` in your app folder - 
-the template **UM Agentic Ed Parent** app should open.  If not, you likely forgot 
-`--recurse-submodules` and must run `git submodule update --init --recursive` to 
-clone the required framework submodule.
+3. Check your installation by double-clicking `index.html` in your app 
+folder—the template **UM Agentic Ed Parent** app should open.  If not, you likely 
+forgot `--recurse-submodules` and must run `git submodule update --init --recursive` 
+to clone the required framework submodule.
 
 4. Edit files `README.md` (this file) and `AGENTS.md` (in the places marked 
 `TODO` only!) to describe the context and content of your new app.
 
 5. From within 
 [VS Code](https://code.visualstudio.com/)
-or your favorite AI-powered development environment, execute
-`/build-app set-app-identity`, OR manually edit file `app.js` to describe
-your new app.
+or your favorite AI-powered development environment, manually edit file `app.js` 
+to describe your new app, OR execute agent skill `/build-app set-app-identity`.
 
 6. Double-click `index.html` again to open your new app in Chrome (Safari does  
-not support in-app editing). You can rename `index.html` to `<your-app-name>.html`
-or another name if you'd like.
+not support in-app editing). Rename `index.html` to `<your-app-name>.html` if 
+you'd like.
 
-7. Ctrl-click on the title you gave your app in the upper left corner to toggle
-in and out of editing mode. Choose your app root folder and enter an allowed
-editor name as prompted.
+7. Ctrl/Cmd-click on the title you gave your app in the upper left corner to 
+toggle in and out of editing mode. Choose your app root folder and enter an 
+allowed editor name as prompted.
 
 8. See the 
 [um-agentic-ed docs](https://github.com/um-agentic-ed/um-agentic-ed-docs)
-for more help using the live app editor, presenter mode, note-taking, and more.
+for more help using the live in-app editor, presenter mode, note-taking, and 
+more.
 
 9. Run `/build-app list` to see Framework-supported Agent tasks that can
-auto-generate or maintain content you can continue editing.
+auto-generate or maintain content that you can continue editing.
 
 ## AI notice
 

@@ -6,6 +6,9 @@
  *
  * Use any valid CSS color. You can delete a line to keep the Framework default 
  * color. Choose text and hover colors that stay readable on the background.
+
+ * The first entry is the app default of University of Michigan colors. Other
+ * commented entries are Codex-suggested alternative color themes.
  */
 :root {
   /* Background of the page header and the sidebar. */
@@ -23,7 +26,47 @@
   /* Accent for text, borders and buttons in Slides, menus and the Editor. */
   --umed-brand-accent: #00274c;
 }
-
+/* Lake Superior */
+/* :root {
+  --umed-brand-bg: #12355b;
+  --umed-brand-text: #f7fbff;
+  --umed-brand-hover-bg: #1f527d;
+  --umed-brand-border: #6689a6;
+  --umed-brand-accent: #176b87;
+} */
+/* Arboretum */
+/* :root {
+  --umed-brand-bg: #173f35;
+  --umed-brand-text: #f7f3e8;
+  --umed-brand-hover-bg: #286653;
+  --umed-brand-border: #769487;
+  --umed-brand-accent: #276749;
+} */
+/* Aubergine */
+/* :root {
+  --umed-brand-bg: #3b2147;
+  --umed-brand-text: #fff8ed;
+  --umed-brand-hover-bg: #603c68;
+  --umed-brand-border: #96779b;
+  --umed-brand-accent: #744183;
+} */
+/* Terracotta */
+/* :root {
+  --umed-brand-bg: #592f2a;
+  --umed-brand-text: #fffaf3;
+  --umed-brand-hover-bg: #80483d;
+  --umed-brand-border: #ad8175;
+  --umed-brand-accent: #9b3f2f;
+} */
+/* Slate and Cyan */
+/* :root {
+  --umed-brand-bg: #172a3a;
+  --umed-brand-text: #f4fbfc;
+  --umed-brand-hover-bg: #24516a;
+  --umed-brand-border: #688594;
+  --umed-brand-accent: #087e8b;
+} */
+ 
 /*
  * Add any custom markdown styling classes, which can then be applied in markdown
  * fields using syntax `{.my-class target text}`. Basic colors and font styles 
