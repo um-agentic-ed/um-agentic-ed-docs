@@ -11,7 +11,7 @@ editing.
 The system was developed at the University of Michigan but is freely usable by 
 anyone, with rebranding support.
 
-## um-agentic-ed-parent
+## um-agentic-ed-docs
 
 This repository, `um-agentic-ed-docs`, is an app built in the system that acts
 as the system documention as well as complete working app example.

@@ -66,7 +66,23 @@
   --umed-brand-border: #688594;
   --umed-brand-accent: #087e8b;
 } */
- 
+/* Parchment and Ink */
+/* :root {
+  --umed-brand-bg: #f3e9d2;
+  --umed-brand-text: #24324a;
+  --umed-brand-hover-bg: #ddd0ad;
+  --umed-brand-border: #b9aa83;
+  --umed-brand-accent: #315b7d;
+} */
+/* Soft Sage */
+/* :root {
+  --umed-brand-bg: #dce8df;
+  --umed-brand-text: #18332b;
+  --umed-brand-hover-bg: #bfd3c4;
+  --umed-brand-border: #91aa98;
+  --umed-brand-accent: #28634f;
+} */
+
 /*
  * Add any custom markdown styling classes, which can then be applied in markdown
  * fields using syntax `{.my-class target text}`. Basic colors and font styles 
