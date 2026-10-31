@@ -9,7 +9,8 @@
 window.umedAppIdentity = {
   // Immutable unique ID (UUID v4) of this App. Generate a new one for each
   // new App and NEVER change it afterwards: User notes saved in the browser 
-  // and exported notes files are matched to the App by this value.
+  // and exported notes files are matched to the App by this value. See site
+  // https://www.uuidgenerator.net/ for generating a new UUID v4.
   appUuid: "2fa4bc6b-9def-4f9a-88cb-3de73c78695c",
 
   // Short, lowercase, filesystem-safe name using only a-z, 0-9 and hyphens.

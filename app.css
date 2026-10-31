@@ -10,22 +10,22 @@
  * The first entry is the app default of University of Michigan colors. Other
  * commented entries are Codex-suggested alternative color themes.
  */
-:root {
+/* :root { */
   /* Background of the page header and the sidebar. */
-  --umed-brand-bg: #00274c;
+  /* --umed-brand-bg: #00274c; */
 
   /* Text and icon color on the header and sidebar. */
-  --umed-brand-text: #ffcb05;
+  /* --umed-brand-text: #ffcb05; */
 
   /* Background of header and sidebar items when hovered, selected or dragged. */
-  --umed-brand-hover-bg: #173f5f;
+  /* --umed-brand-hover-bg: #173f5f; */
 
   /* Thin divider lines in the header and sidebar. */
-  --umed-brand-border: #4c5837;
+  /* --umed-brand-border: #4c5837; */
 
   /* Accent for text, borders and buttons in Slides, menus and the Editor. */
-  --umed-brand-accent: #00274c;
-}
+  /* --umed-brand-accent: #00274c; */
+/* } */
 /* Lake Superior */
 /* :root {
   --umed-brand-bg: #12355b;
