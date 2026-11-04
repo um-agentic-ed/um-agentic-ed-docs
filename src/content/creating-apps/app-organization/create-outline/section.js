@@ -6,7 +6,7 @@ window.umedAppContent["creating-apps/app-organization/create-outline"] = {
     "blocks": [
       {
         "type": "text",
-        "markdown": "While you can just start creating slides, it is usually better to begin by building a content outline. The app system provide a simple way to do this that will help your AI agent help you.\n\nApp outlines are entirely optional, but recommended."
+        "markdown": "While you can just start creating slides, it is usually better to begin by building a content outline. The app system provide a simple way to do this that will help your AI agent help you.\n\nApp outlines are optional, but recommended."
       }
     ]
   }
